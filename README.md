@@ -1,5 +1,10 @@
 # Patatap
-this the clone of Patatap site
+this the clone of Patatap site.
+
+you can see the preview here
+http://jsfiddle.net/tinasoltanian/ndjfwcyz/embedded/result/
+after loadong the page click on it and start typing ...
+enjoy!
 
 used this two libereries 
 
